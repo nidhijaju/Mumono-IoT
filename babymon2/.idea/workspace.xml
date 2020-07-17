@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41fe6aca-a475-456f-881e-61fa80357950" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XSGntt1hudvZc3quFYDU8C8b5S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Neelesh\WebstormProjects\babymon2\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/babymon2/build/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="build" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Debug Application" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="npm.npm start" />
+      <item itemvalue="npm.build" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41fe6aca-a475-456f-881e-61fa80357950" name="Default Changelist" comment="" />
+      <created>1581032252638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581032252638</updated>
+      <workItem from="1581032255007" duration="7246000" />
+      <workItem from="1581193711461" duration="9044000" />
+      <workItem from="1581208033262" duration="5427000" />
+      <workItem from="1581441171114" duration="12375000" />
+      <workItem from="1581505961192" duration="411000" />
+      <workItem from="1581513154597" duration="11222000" />
+      <workItem from="1581606819627" duration="98000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="-172" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581033628912">
+      <screen x="1920" y="-347" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="-172" key="#com.intellij.execution.impl.EditConfigurationsDialog/78.0.1842.1080/1920.-347.1920.1040@1920.-347.1920.1040" timestamp="1581033628912" />
+    <state x="786" y="295" key="FileChooserDialogImpl" timestamp="1581204898728">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state x="786" y="295" key="FileChooserDialogImpl/93.0.1827.1080@93.0.1827.1080" timestamp="1581204898728" />
+    <state width="1806" height="273" key="GridCell.Tab.0.bottom" timestamp="1581525262314">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1899" height="261" key="GridCell.Tab.0.bottom/78.0.1842.1080/1920.-347.1920.1040@1920.-347.1920.1040" timestamp="1581033919409" />
+    <state width="1821" height="274" key="GridCell.Tab.0.bottom/78.0.1842.1080/1920.-347.1920.1040@78.0.1842.1080" timestamp="1581039507156" />
+    <state width="1806" height="273" key="GridCell.Tab.0.bottom/93.0.1827.1080@93.0.1827.1080" timestamp="1581525262314" />
+    <state width="1806" height="273" key="GridCell.Tab.0.center" timestamp="1581525262313">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1899" height="261" key="GridCell.Tab.0.center/78.0.1842.1080/1920.-347.1920.1040@1920.-347.1920.1040" timestamp="1581033919409" />
+    <state width="1821" height="274" key="GridCell.Tab.0.center/78.0.1842.1080/1920.-347.1920.1040@78.0.1842.1080" timestamp="1581039507156" />
+    <state width="1806" height="273" key="GridCell.Tab.0.center/93.0.1827.1080@93.0.1827.1080" timestamp="1581525262313" />
+    <state width="1806" height="273" key="GridCell.Tab.0.left" timestamp="1581525262313">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1899" height="261" key="GridCell.Tab.0.left/78.0.1842.1080/1920.-347.1920.1040@1920.-347.1920.1040" timestamp="1581033919409" />
+    <state width="1821" height="274" key="GridCell.Tab.0.left/78.0.1842.1080/1920.-347.1920.1040@78.0.1842.1080" timestamp="1581039507155" />
+    <state width="1806" height="273" key="GridCell.Tab.0.left/93.0.1827.1080@93.0.1827.1080" timestamp="1581525262313" />
+    <state width="1806" height="273" key="GridCell.Tab.0.right" timestamp="1581525262313">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1899" height="261" key="GridCell.Tab.0.right/78.0.1842.1080/1920.-347.1920.1040@1920.-347.1920.1040" timestamp="1581033919409" />
+    <state width="1821" height="274" key="GridCell.Tab.0.right/78.0.1842.1080/1920.-347.1920.1040@78.0.1842.1080" timestamp="1581039507156" />
+    <state width="1806" height="273" key="GridCell.Tab.0.right/93.0.1827.1080@93.0.1827.1080" timestamp="1581525262313" />
+    <state x="669" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1581517969515">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state x="669" y="235" width="672" height="678" key="search.everywhere.popup/93.0.1827.1080@93.0.1827.1080" timestamp="1581517969515" />
+  </component>
+</project>
