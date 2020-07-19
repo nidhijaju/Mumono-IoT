@@ -1,5 +1,5 @@
 # Mumono 
-Mumono Internet of Things device is an embedded systems project designed to provide remote safety for babies
+Mumono Internet of Things device is an embedded systems project designed to provide remote safety for babies.
 
 # Marketing Website
 - Visit marketing website on: https://mumono.squarespace.com/
@@ -23,5 +23,5 @@ Ensure ``` 'Python 3' ``` and ``` 'requests' ``` library is installed on your PC
 - MQTT Client and Publisher was trialled, but unused as HTTPS has equivalent abstraction
 
 # Contributors
-This project was completed with Neelesh Ravichandran (Neelesh99) and Nidhi Jaju (nidhijaju)
+This project was completed with Neelesh Ravichandran (Neelesh99) and Agrim Manchanda (agrimmanchanda).
 
